@@ -1,0 +1,14 @@
+{
+  "name": "array",
+  "version": "1.0.0",
+  "description": "aaaaaaaaaa",
+  "main": "principal_array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vitor Hugo",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
